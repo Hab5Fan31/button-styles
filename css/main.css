@@ -20,7 +20,18 @@ div {
   border-radius: 8px;
 }
 
+.btn:hover {
+  background-color: #000;
+}
+
 .btn-subtle {
   background-color: #ccc;
   color: #fff;
+  text-decoration: none;
+  padding: .4em;
+  border-radius: 8px;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
 }
